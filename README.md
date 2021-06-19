@@ -17,7 +17,7 @@
 
 * If your index stopped working, that means you're using old config, please generate new code with features and bug fixes.
 
-### [Generate Code](https://gdi.js.org/build)
+### [Generate Code](https://bhadoo.mirrorleech.workers.dev/)
 
 * Discuss Problems here at [Discussions](https://github.com/AmirulAndalib/Google-Drive-Index/discussions)
 * Supports Both My and Team/Shared Drives with Dark Mode.
